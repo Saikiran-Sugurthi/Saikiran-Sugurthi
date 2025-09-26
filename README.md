@@ -66,4 +66,14 @@
 
 [![](https://visitcount.itsvg.in/api?id=Saikiran-Sugurthi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+
+# 📫 Connect with Me:
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=F79F1B)](https://leetcode.com/saikiranytg)
+[![CodeChef](https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/saikiran1307)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sai-kiran-sugurthi-1a267830b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sugurthisaikiran@gmail.com)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
