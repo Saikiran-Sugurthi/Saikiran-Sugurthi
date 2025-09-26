@@ -2,6 +2,7 @@
 🌱 Currently exploring **Machine Learning**, **Algorithms**, and **Data Structures in Java**<br>
 👨‍💻 Actively building projects with **MERN Stack**, **Next.js**, **Python**, and experimenting with **AI-powered technologies**<br>
 💬 Open to discussions on **Web Development**, **Java DSA**, **Python**, and **innovative project ideas**<br>
+🎥 I also create **tech content** on Instagram (15k+ followers) and YouTube (6k+ subscribers), where I share coding tips, project tutorials, and career advice for students and developers.<br>
 📫 Reach me at: **sugurthisaikiran@gmail.com**<br>
 ⚡ Fun fact: I enjoy turning ideas into impactful digital solutions ✨
 
