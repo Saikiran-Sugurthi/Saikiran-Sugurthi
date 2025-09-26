@@ -50,6 +50,13 @@
 
 ---
 
+
+# 🚀 Projects Highlights:
+
+- [**Eamcet College Predictor**](https://github.com/Saikiran-Sugurthi/Eamcet-College-Predictor) – A predictive tool that helps students find suitable colleges based on their EAMCET scores and preferences.  
+- [**Infinitalk**](https://github.com/Saikiran-Sugurthi/Infinitalk) – A real-time chat application built with **MERN stack** and **Socket.io** for instant messaging.  
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Saikiran-Sugurthi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Saikiran-Sugurthi&theme=dark&hide_border=false)<br/>
