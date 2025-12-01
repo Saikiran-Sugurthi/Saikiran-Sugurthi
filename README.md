@@ -1,3 +1,6 @@
+cmggunbh0001el804i1n2jyou
+
+
 # 💫 About Me:
 🌱 Currently exploring **Machine Learning**, **Algorithms**, and **Data Structures in Java**<br>
 👨‍💻 Actively building projects with **MERN Stack**, **Next.js**, **Python**, and experimenting with **AI-powered technologies**<br>
