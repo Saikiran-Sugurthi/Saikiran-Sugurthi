@@ -56,9 +56,10 @@
 
 
 # 🚀 Projects Highlights:
-
-- [**Eamcet College Predictor**](https://github.com/Saikiran-Sugurthi/Eamcet-College-Predictor) – A predictive tool that helps students find suitable colleges based on their EAMCET scores and preferences.  
-- [**Infinitalk**](https://github.com/Saikiran-Sugurthi/Infinitalk) – A real-time chat application built with **MERN stack** and **Socket.io** for instant messaging.  
+- [**EAMCET College Predictor**](https://github.com/Saikiran-Sugurthi/Eamcet-College-Predictor) – A data-driven web application that helps EAMCET aspirants predict suitable colleges based on rank, category, gender, and branch preferences using past counseling data.  
+- [**Airbnb Clone**](https://github.com/Saikiran-Sugurthi) – A full-stack web application inspired by Airbnb, featuring property listings, user authentication, booking workflows, and RESTful APIs built with modern web technologies.  
+- [**Flux**](https://github.com/Saikiran-Sugurthi) – A modern full-stack platform designed to deliver fast, scalable, and user-friendly experiences, focusing on clean architecture, performance, and real-world use cases.  
+ 
 ---
 
 # 📊 GitHub Stats:
