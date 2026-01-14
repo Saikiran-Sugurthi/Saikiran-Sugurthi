@@ -56,9 +56,12 @@
 
 
 # 🚀 Projects Highlights:
-- [**EAMCET College Predictor**](https://github.com/Saikiran-Sugurthi/Eamcet-College-Predictor) – A data-driven web application that helps EAMCET aspirants predict suitable colleges based on rank, category, gender, and branch preferences using past counseling data.  
-- [**Airbnb Clone**](https://github.com/Saikiran-Sugurthi) – A full-stack web application inspired by Airbnb, featuring property listings, user authentication, booking workflows, and RESTful APIs built with modern web technologies.  
-- [**Flux**](https://github.com/Saikiran-Sugurthi) – A modern full-stack platform designed to deliver fast, scalable, and user-friendly experiences, focusing on clean architecture, performance, and real-world use cases.  
+- [**EAMCET College Predictor**](https://github.com/Saikiran-Sugurthi/Eamcet-College-Predictor) – A predictive tool that helps students identify suitable colleges based on their EAMCET rank, category, and preferences.
+
+- [**WanderPad**](https://github.com/Saikiran-Sugurthi/WanderPad) – An Airbnb-style full-stack web application where users can create listings, upload images, and post reviews, built using Node.js, Express, MongoDB, and EJS.
+
+- [**Flux**](https://github.com/Saikiran-Sugurthi/Flux-Chat) – A lightweight real-time chat application with room-based messaging and typing indicators, built using React, Express, and Socket.io.
+
  
 ---
 
