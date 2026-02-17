@@ -62,7 +62,15 @@
 
 - [**Flux**](https://github.com/Saikiran-Sugurthi/Flux-Chat) – A lightweight real-time chat application with room-based messaging and typing indicators, built using React, Express, and Socket.io.
 
- 
+---
+
+## 🧠 Data Structures & Algorithms
+
+I actively solve problems on **LeetCode** and **CodeChef** to sharpen my algorithmic skills.
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/saikiranytg?theme=dark&font=baloo&ext=heatmap)
+
+--- 
 ---
 
 # 📊 GitHub Stats:
