@@ -72,13 +72,15 @@ I actively solve problems on **LeetCode** and **CodeChef** to sharpen my algorit
 
 --- 
 ---
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Saikiran-Sugurthi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Saikiran-Sugurthi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikiran-Sugurthi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats-ruby-tau.vercel.app?user=Saikiran-Sugurthi&theme=tokyonight&hide_border=true)
 
+![Top Languages](https://github-readme-stats-two-wine-66.vercel.app/api/top-langs/?username=Saikiran-Sugurthi&theme=tokyonight&hide_border=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats-two-wine-66.vercel.app/api?username=Saikiran-Sugurthi&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage&hide_border=true)
 ---
+
 
 [![](https://visitcount.itsvg.in/api?id=Saikiran-Sugurthi&icon=0&color=0)](https://visitcount.itsvg.in)
 
