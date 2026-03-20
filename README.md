@@ -67,7 +67,6 @@
 ## 🧠 Data Structures & Algorithms
 
 I actively solve problems on **LeetCode** and **CodeChef** to sharpen my algorithmic skills.
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/saikiranytg?theme=dark&font=baloo&ext=heatmap)
 
 --- 
